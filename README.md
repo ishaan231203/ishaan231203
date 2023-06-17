@@ -16,7 +16,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ishaan231203&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishaan231203&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<img align="right" width="400" src="https://media.tenor.com/54mjjpuowCgAAAAM/ninjala-jane.gif">
+<img align="right" width="350" src="https://media.tenor.com/54mjjpuowCgAAAAM/ninjala-jane.gif">
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
