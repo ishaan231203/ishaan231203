@@ -2,7 +2,6 @@
 
 # 💫 About Me:
 🔭 I’m currently working on Raccoon<br>🌱 I’m currently learning Offensive Security<br>💬 Ask me about cybersecurity, offensive tools, networking<br>📫 How to reach me sishaan178@gmail.com
-<img align="right" width="300" height="200" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 ## 🌐 Socials:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
@@ -16,7 +15,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ishaan231203&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishaan231203&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<img align="right" width="350" src="https://media.tenor.com/54mjjpuowCgAAAAM/ninjala-jane.gif">
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
